@@ -1,9 +1,11 @@
 #include <stdio.h>
 /**
- * 102-magic - adds one liine, and prints a[2] = 98
- * @n: integer params
+ * magic - print out a value from a certain index from the array
+ *
  * Return: 0
  */
+
+
 int main(void)
 {
 int n;
